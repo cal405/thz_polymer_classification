@@ -33,8 +33,16 @@ REQUIREMENTS
 ------------
 Python 3.9.12 or later is required to run the .py files.
 
-To use this program the python modules specified in requirements.txt must
-be installed through pip. The refractive index and absorption extraction algorithm
+The following python modules are required to run the getData.py and
+the functionalit.py files:
+
+ * [numpy](https://numpy.org/) v. 1.23 or later
+ * [pandas](https://pandas.pydata.org/) v. 1.5.1 or later
+ * [natsort](https://pypi.org/project/natsort/) v. 8.2 or later
+ * [matplotlib](https://matplotlib.org/) v. 3.6 or later
+ * [scipy](https://scipy.org/) v. 1.9.3 or later
+
+The refractive index and absorption extraction algorithm
 are owned by [Elena Mavrona](https://scholar.google.com/citations?user=566uGpQAAAAJ&hl=en&oi=ao).
 
 MATLAB 2020b or later is required to run the live script. 
