@@ -1,6 +1,5 @@
 import quartz        #Elena Mavrona's algorithm
 import csv
-import pylab
 import math
 from scipy.interpolate import interp1d
 import matplotlib.pyplot as plt 
